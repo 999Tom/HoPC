@@ -1,3 +1,3 @@
-# SelfzCoT-MzCoT
+# HoPC
 
-There is the code of SelfzCoT and MzCoT experiment. Will be Published soon
+There is the project page for HoPC. Will be published soon
